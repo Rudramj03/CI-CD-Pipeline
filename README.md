@@ -1,2 +1,2 @@
-# CI-CD-Pipeline
-CI/CD Pipeline project
+# cicd-demo
+CICD Demo 
